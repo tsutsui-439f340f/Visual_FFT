@@ -8,7 +8,7 @@ CHANK:2024
 
 環境
 
-
+windows10
 
 Python:3.6.6
 
